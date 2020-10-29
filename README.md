@@ -1,6 +1,6 @@
 ### Hi there, I'm Hans - aka H2muller 👋
 
-[![My Profile](https://img.shields.io/website?label=Profile at cabbi.bio&style=for-the-badge&url=https://cabbi.bio/hans-muller-paul-streamlining-feedstock-research-with-computation)](https://cabbi.bio/hans-muller-paul-streamlining-feedstock-research-with-computation)
+[![My Profile](https://img.shields.io/website?label=profile%20at%20cabbi.bio&style=for-the-badge&url=https://cabbi.bio/hans-muller-paul-streamlining-feedstock-research-with-computation)](https://cabbi.bio/hans-muller-paul-streamlining-feedstock-research-with-computation)
 [![Twitter Follow](https://img.shields.io/twitter/follow/h2muller?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?h2muller)
 
 ## I'm a Husband, Photographer, Developer, and Musician!
